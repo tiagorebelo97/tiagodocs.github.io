@@ -14,6 +14,6 @@ teste numero 1!
 * fsdf
 * dcvd
 
-```pl/sql
+```sql
 select * from teste;
 ```
